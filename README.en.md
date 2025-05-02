@@ -4,7 +4,7 @@ A simple web app for managing tasks, built with **HTML**, **CSS**, and **vanilla
 
 ## 📸 Preview
 
-![App preview](screenshot.png)
+![App preview](images/SS.png)
 
 ## 🚀 Features
 
