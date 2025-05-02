@@ -4,7 +4,7 @@ Una simple aplicación web para gestionar tareas, creada con **HTML**, **CSS** y
 
 ## 📸 Vista previa
 
-![Vista previa de la app](screenshot.png) <!-- Puedes subir una imagen con ese nombre para que se vea -->
+![Vista previa de la app](images/SS.png) <!-- Puedes subir una imagen con ese nombre para que se vea -->
 
 ## 🚀 Funcionalidades
 
